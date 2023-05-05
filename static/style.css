@@ -1,0 +1,20 @@
+.container{
+width:400px;
+align-content:center;
+text-align:center;
+}
+
+.main{
+    align-content:center;
+}
+
+.main table{
+    margin:10px;
+}
+
+.main tr, thead, th, td{
+    outline: solid black 2px;
+    padding:10px;
+}
+
+
